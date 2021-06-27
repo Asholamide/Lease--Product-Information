@@ -1,2 +1,2 @@
 # Product Lease
- Product display and information tag
+ Product display and category information 
